@@ -199,13 +199,13 @@ public class Cidade {
                 /**
 		 * Variaveís que recebem o código da color e auxíliam na hora de imprimir na tela
 		 */
-                String map = "\u001B[33m";///Código referente color WHITE
-                String maternidade = "\u001B[35m";///Código referente color MAGENTA
-                String limite = "\u001B[36m" ;///Código referente color CYAN
-		String carroVermelho = "\u001B[31m";///Código referente color RED
-                String camiAmarelo = "\u001B[37m";///Código referente color YELLOW
-                String motoAzul = "\u001B[34m";///Código referente color BLUE
-                String bikess = "\u001B[32m"; // Codigo referente color GREEN
+                String map = "\u001B[31m";
+                String maternidade = "\u001B[36m";
+                String limite = "\u001B[35m" ;
+		String carroVermelho = "\u001B[33m";
+                String camiAmarelo = "\u001B[34m";
+                String motoAzul = "\u001B[37m";
+                String bikess = "\u001B[32m"; 
                  /**
 		 * Contadores para exibição
 		 */
